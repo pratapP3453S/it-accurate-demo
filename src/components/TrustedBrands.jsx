@@ -73,7 +73,7 @@ export default function TrustedBrands() {
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.5 }}
-            className="text-3xl md:text-4xl font-bold leading-tight"
+            className="text-3xl md:text-4xl font-bold leading-tight dark:text-white"
           >
             We are one of the{" "}
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-600 to-blue-500 dark:from-purple-400 dark:to-blue-300">
